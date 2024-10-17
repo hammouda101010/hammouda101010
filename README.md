@@ -2,10 +2,13 @@
 
 i like making games
 
-Game(s) Im Working on rn:\
+## Game(s) Im Working on rn:
 PenguinWare
 
-Tools i Use:\
+## Tools i Use:
 Scratch\
 Turbowarp\
 PenguinMod
+
+## My Skils
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,nodejs,npm,py,robloxstudio,twitter,github,git,vscode,windows)](https://skillicons.dev)
