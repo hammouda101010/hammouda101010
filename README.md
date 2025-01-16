@@ -12,4 +12,4 @@ Turbowarp\
 PenguinMod
 
 ## My Skils
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,nodejs,npm,py,robloxstudio,twitter,github,git,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,npm,py,robloxstudio,twitter,github,git,vscode,windows)](https://skillicons.dev)
