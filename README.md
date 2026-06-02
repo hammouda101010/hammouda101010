@@ -1,5 +1,6 @@
 # About Me:
-I like making games
+
+I don't use this site anymore, i'm on [codeberg]([https://codeberg.org](https://codeberg.org/hammouda101010)) instead
 <div align=center>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hammouda101010)](https://github.com/ryo-ma/github-profile-trophy)
@@ -17,7 +18,7 @@ I like making games
 None Yet...
 
 ## Things Im Working on rn:
-Project Formatter for Scratch (Scratch Addons)
+Nothing...
 
 ## Tools i Use:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,npm,py,robloxstudio,svelte,twitter,github,git,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,npm,py,robloxstudio,svelte,godot,github,git,vscode,discord,windows)](https://skillicons.dev)
